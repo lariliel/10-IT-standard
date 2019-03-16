@@ -14,6 +14,7 @@
  * @uses <stdio.h>
  * @uses functions.c
  * @uses progressions.c
+ * @uses errorHandling.c
  * */
 int main(void){
     double a = 0, b = 0;

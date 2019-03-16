@@ -2,7 +2,7 @@
  * Практическое задание 0, эталонное решение
  * @author ddsh
  * @link http://moria.1586.su/moodle/mod/page/view.php?id=1705
- * @link CHANGEME
+ * @link https://github.com/lariliel/10-IT-standard
  * */
 #include <stdio.h>
 #include "functions.c"

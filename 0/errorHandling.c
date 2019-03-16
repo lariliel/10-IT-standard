@@ -4,6 +4,7 @@
  * @see main.c
  * @uses <stdio.h>
  * */
+#include <stdio.h>
 
 /**
  * Функция, обрабатывающая ошибки и выводящая сообщения о них на экран.
@@ -11,6 +12,7 @@
  * @param int* err -- указатель на номер ошибки из главной функции
  * @global err возвращается в 0 в конце функции.
  * @example handleError(-1); // printf("DIVISION BY ZERO");
+ * @uses <stdio.h>
  * */
 void handleError(double a, int* err){
     switch(*err){

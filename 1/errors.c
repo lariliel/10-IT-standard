@@ -26,7 +26,7 @@ void handleError(int curErrCode, char curSetArgName){
             break;
         
         case UNKNOWN_ARG:
-            printf("UNCNOWN ARGUMENT\n");
+            printf("UNKNOWN ARGUMENT\n");
             break;
     
         default:

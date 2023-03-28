@@ -1,6 +1,6 @@
 /**
  * Практическое задание 0, эталонное решение
- * @author ddsh
+ * @author Lari Shirokova
  * @link http://moria.1586.su/moodle/mod/page/view.php?id=1705
  * @link https://github.com/lariliel/10-IT-standard
  * */

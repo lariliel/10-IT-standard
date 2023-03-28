@@ -1,5 +1,5 @@
 /**
- * @author ddsh
+ * @author Lari Shirokova
  * Практика 1, эталонное решение
  * @link http://moria.1586.su/moodle/mod/page/view.php?id=1709
  * @link https://github.com/lariliel/10-IT-standard
